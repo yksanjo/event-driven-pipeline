@@ -1,5 +1,12 @@
 # event-driven-pipeline
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/event-driven-pipeline/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/event-driven-pipeline/actions)
+![License](https://img.shields.io/github/license/yksanjo/event-driven-pipeline)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/event-driven-pipeline)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/event-driven-pipeline)
+
 ## Detailed Description
 
 event-driven-pipeline is maintained as an industry-grade software project with production-ready engineering practices.  
